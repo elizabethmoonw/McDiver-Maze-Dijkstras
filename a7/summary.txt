@@ -1,0 +1,20 @@
+(Fill out this file with brief answers.)
+
+Name(s) and NetID(s) of group members: Elizabeth Moon (em652)
+
+Time spent on the assignment, in hours: 15
+
+Implementation strategy:
+    (describe how you went about implementing the assignment and how the work was divided between the partners.)
+    Completed test cases for ShortestPathsTest
+    First implemented dijkstra's algorithm, then skipped and went back to concurrency
+    Pseudocode for seek/scram, then implemented each
+
+Testing strategy:
+    (how did you perform testing and design test cases to achieve coverage?)
+    Completed test cases for ShortestPathsTest, used black box testing with unusual cases (i.e. node to iself)
+    Checked GUI after implementing/editing seek/scram
+Known problems:
+    (are there any things that do not work?)
+
+Comments on the assignment:
